@@ -19,7 +19,7 @@ window.__imported__["kristasasse@1x/layers.json.js"] = [
 		"metadata": {},
 		"backgroundColor": "rgba(255, 255, 255, 1)",
 		"image": {
-			"path": "images/Layer-krista-rjfcndhg.jpg",
+			"path": "images/Layer-krista-rjfcndhg.png",
 			"frame": {
 				"x": 0,
 				"y": 0,
@@ -34,29 +34,56 @@ window.__imported__["kristasasse@1x/layers.json.js"] = [
 				"name": "trigroup",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": -1,
-					"y": 252,
-					"width": 752,
-					"height": 699
+					"x": 29,
+					"y": 310,
+					"width": 692,
+					"height": 646
 				},
 				"visible": true,
 				"metadata": {
-					"opacity": 0.8176888992537313
+					"opacity": 0.7866721082089553
 				},
 				"image": {
 					"path": "images/Layer-trigroup-qkzbqjkx.png",
 					"frame": {
-						"x": -1,
-						"y": 252,
-						"width": 752,
-						"height": 699
+						"x": 29,
+						"y": 310,
+						"width": 692,
+						"height": 646
 					}
 				},
 				"children": [],
-				"time": 205
+				"time": 167
+			},
+			{
+				"objectId": "BA056AE0-0D79-49AE-BADC-4DCC554891B2",
+				"kind": "group",
+				"name": "kristabak",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -708,
+					"y": -44,
+					"width": 2116,
+					"height": 1414
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-kristabak-qkewntzb.png",
+					"frame": {
+						"x": -708,
+						"y": -44,
+						"width": 2116,
+						"height": 1414
+					}
+				},
+				"children": [],
+				"time": 2050
 			}
 		],
-		"time": 569
+		"time": 2316
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};

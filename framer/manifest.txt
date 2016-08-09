@@ -1,12 +1,80 @@
+.git/COMMIT_EDITMSG
+.git/config
+.git/description
+.git/FETCH_HEAD
+.git/HEAD
+.git/hooks/applypatch-msg.sample
+.git/hooks/commit-msg.sample
+.git/hooks/post-update.sample
+.git/hooks/pre-applypatch.sample
+.git/hooks/pre-commit.sample
+.git/hooks/pre-push.sample
+.git/hooks/pre-rebase.sample
+.git/hooks/prepare-commit-msg.sample
+.git/hooks/update.sample
+.git/index
+.git/info/exclude
+.git/logs/HEAD
+.git/logs/refs/heads/master
+.git/logs/refs/remotes/origin/master
+.git/objects/06/671c21f7c6264083ce47866f97a49a56b2f5ea
+.git/objects/09/e59b30606f38140e501b5921dbdcfa21144283
+.git/objects/0e/cbb7fda2128c61af7dae834231d8ad5528b9d7
+.git/objects/16/7bdabdf5b5cc370ff7f4744f33fe18733fcb5a
+.git/objects/1c/eeb5e4351a9d173658e5dcdd516bcb086584cd
+.git/objects/1d/17a603b5ea5e990883f8cc6e2e815d2bab175b
+.git/objects/2b/0b10a7305474b92fcbb69e2e33f00ae7007f93
+.git/objects/2d/2eebcc5f23687317d361e4e947799d01f271e1
+.git/objects/32/c59de61477aedf311cff5fec32a6300dae569a
+.git/objects/35/dc16f1d420bce2ed881cdd7a117f623a7013bc
+.git/objects/3c/f857a3fd8c79536b15fc5e00987c5ebc7e20a0
+.git/objects/40/04ff2c7456c194846e9fa39b869c6109c7e95b
+.git/objects/42/fed2b4b190e2d7f08e052d8326d92a13d76301
+.git/objects/43/f41ba75e8e0924c437e216b591eb3428b13d17
+.git/objects/45/5a04efa394b5e33523b0c788db990903884b1c
+.git/objects/45/79adea871234e9b2b7c40c969e37eb94898e46
+.git/objects/52/7b31e0e782039c3e1885539a28eb25dae2624f
+.git/objects/5a/26706f52b6b72b248ff01efed94432a3b052b5
+.git/objects/5a/bcbe34c26798cb0dd1ed3a7ade90872dc5067b
+.git/objects/5c/e9116382e06d89828828e895200d1a956e8928
+.git/objects/6d/9bbc80d96601d26176c7ccc8682bf72559f92c
+.git/objects/6e/37a924b0ff6a994781e6bb25ce5d5e9d3f4aa2
+.git/objects/77/27c41bbd476f94be64fba7acab4ef5619b5cf9
+.git/objects/78/efc0e6bb2efb93f3069377d60d132268441bd9
+.git/objects/7a/d0589ee9b905d29b3b91cf3f5dd06daaf6270e
+.git/objects/81/8d401ae00286c9cd09a6cfeabc0bf4ec281771
+.git/objects/85/9cfda733629062baa68be6cb0acb29c26929eb
+.git/objects/86/e23e00370117a5347fe476e12a28215eecf274
+.git/objects/88/6ab7c8a797f43b53012f360dfdcc8e59705bd3
+.git/objects/8a/b28fc9276ecb8dbdea9dbe589ad5538411abef
+.git/objects/8f/6e544445e53b23647e38e67893f5b0d89a0ed2
+.git/objects/9c/4f99b22a56fb8c71bac4b077baf261ac8a175e
+.git/objects/9e/909f6fdcb4d98998a59fecaa54b8073401f805
+.git/objects/a2/999a5aa877170f2ff4393efd6ff1f78a1be469
+.git/objects/a3/ae7315264a6894cc3d0007169d1024124a7d26
+.git/objects/a5/f01bfc546b53d8523fd4b349d9a79d18959d1a
+.git/objects/a7/0705dbf951f09e31894e4f13f6576d89877420
+.git/objects/aa/6c7b83f7f2f24fa5fdd71c3246779d01290536
+.git/objects/ae/06cbbca46c635d4356874df4abe448e93005c9
+.git/objects/b5/0f5fb1fec31af1ae3f1325c6b75a9f8f9dd46f
+.git/objects/b5/ccf83725162411c5e729295e845fa99359a087
+.git/objects/b6/5084f53d48dacafe62b2667bf1e44a2963339f
+.git/objects/b7/318750392b8ef2ac1af58583852d318a23f014
+.git/objects/bb/b0c497c7b6fc7127bd5995ccc251bda508f291
+.git/objects/cd/aa5f2c15543ff3e5162028b3d6f85765ca7dc2
+.git/objects/d4/b7d3dc7dcf8d4da9f8be5ebc61ef8c34d379c0
+.git/objects/d5/1b1bd0de86ab9dc3b42adf6cadf4d9fa0e0afd
+.git/objects/d7/d167162c9c96d42c4cfb5374c72b26bef1ea72
+.git/objects/de/2703cb1471fefc8f86be3ebab2d90603ed656e
+.git/objects/e3/f5c12dfdfbd364659357035624545f1a99a4ff
+.git/objects/e4/40e5c842586965a7fb77deda2eca68612b1f53
+.git/objects/e6/793d664e874676f2ebda559db92fc7489b8525
+.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+.git/objects/f2/d47c08e1fe1d5652bb92a9d52be5e9e1dd0ebc
+.git/objects/fb/c692d670d4ca085451d1c78c945681ce882ba6
+.git/refs/heads/master
+.git/refs/remotes/origin/master
 app.coffee
-framer/backups/backup-1470000842.coffee
-framer/backups/backup-2016-08-05 13.06.56.coffee
-framer/backups/backup-2016-08-05 14.36.57.coffee
-framer/backups/backup-2016-08-05 14.37.57.coffee
-framer/backups/backup-2016-08-05 14.38.57.coffee
-framer/backups/backup-2016-08-05 14.39.57.coffee
-framer/backups/backup-2016-08-05 15.11.57.coffee
-framer/backups/backup-2016-08-05 15.18.57.coffee
 framer/backups/backup-2016-08-05 15.34.57.coffee
 framer/backups/backup-2016-08-05 15.35.57.coffee
 framer/backups/backup-2016-08-05 15.51.57.coffee
@@ -19,6 +87,15 @@ framer/backups/backup-2016-08-06 17.07.33.coffee
 framer/backups/backup-2016-08-06 17.09.33.coffee
 framer/backups/backup-2016-08-06 17.10.33.coffee
 framer/backups/backup-2016-08-06 17.11.33.coffee
+framer/backups/backup-2016-08-09 13.03.50.coffee
+framer/backups/backup-2016-08-09 14.39.03.coffee
+framer/backups/backup-2016-08-09 14.39.55.coffee
+framer/backups/backup-2016-08-09 14.42.55.coffee
+framer/backups/backup-2016-08-09 14.44.55.coffee
+framer/backups/backup-2016-08-09 14.46.55.coffee
+framer/backups/backup-2016-08-09 14.47.55.coffee
+framer/backups/backup-2016-08-09 14.48.55.coffee
+framer/backups/backup-2016-08-09 14.50.06.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -50,10 +127,13 @@ framer/manifest.txt
 framer/metadata.json
 framer/mirror.css
 framer/preview.png
+framer/social-1200x630.png
+framer/social-880x460.png
 framer/style.css
 framer/version
 images/keerie_kra-resample.png
-imported/kristasasse@1x/images/Layer-krista-rjfcndhg.jpg
+imported/kristasasse@1x/images/Layer-krista-rjfcndhg.png
+imported/kristasasse@1x/images/Layer-kristabak-qkewntzb.png
 imported/kristasasse@1x/images/Layer-trigroup-qkzbqjkx.png
 imported/kristasasse@1x/layers.json
 imported/kristasasse@1x/layers.json.js
